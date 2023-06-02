@@ -60,5 +60,4 @@ class Character:
                 f"\tStrength: {self.strength}\n"
                 f"\tDefence: {self.defence}\n"
                 f"\tSpeed: {self.speed}\n"
-                f"\tLuck: {self.luck}\n"
-                f"\tSkill: {self.skill.name if self.skill else 'None'}")
+                f"\tLuck: {self.luck}\n")
